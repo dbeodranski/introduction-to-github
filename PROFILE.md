@@ -1,1 +1,2 @@
-Welcome to my GitHub Profile!
+Dusan Beodranski
+Sanja Rikic
