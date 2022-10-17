@@ -1,2 +1,2 @@
-Dusan Beodranskiii
-Sanja Rikiccc
+Dusan Beodranski
+Sanja Rikic
